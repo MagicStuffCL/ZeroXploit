@@ -21,3 +21,4 @@ Instructions :
 - [PaulJenkin](https://github.com/PaulJenkin/PS4RaspberryPi)
 - [SiSTR0](https://github.com/SiSTR0)
 - [ChendoChap](https://github.com/ChendoChap)
+- [sleirsgoevy](https://github.com/sleirsgoevy)
