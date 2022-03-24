@@ -1,7 +1,7 @@
 # ZeroXploit
 Instructions :
 
-1 - Replace html folder in /usr
+1 - Replace html folder in /usr <br>
 2 - Copy ntplib.py to /usr/lib/python3.7/ (or the python folder that your raspberry has)
 3 - If you wish you can edit the file /usr/html/Resources/py/ftpTrainerUpdate.py , and in line 79 configure the ntp server of your choice
 4 - The update of the trainer takes a few minutes and if the page is closed it will continue processing the update, if the page is left open for a moment it will show a message that the trainer has been updated, when re-entering 
