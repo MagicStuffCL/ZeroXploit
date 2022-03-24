@@ -16,3 +16,8 @@ Instructions :
 @Sleirsgoevy , Al Azif , ChendoChap , SiSTRo ,Specter ,Znullptr , Karo Sharifi , Lapi , Leeful and to all who make this possible..<br>
 @All the PS4PiZero team, may the ps4 community continue to grow :), thanks to all
 
+## Credits
+
+- [PaulJenkin](https://github.com/PaulJenkin/PS4RaspberryPi)
+- [SiSTR0](https://github.com/SiSTR0)
+- [ChendoChap](https://github.com/ChendoChap)
