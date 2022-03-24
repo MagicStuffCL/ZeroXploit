@@ -13,7 +13,6 @@ Instructions :
 @MagicStuff<br>
 @c0d3m4st4 for first release<br>
 @PaulJenkin for Embeded OS, Emulation<br>
-Credits : <br>
-
-All the PS4PiZero team, may the ps4 community continue to grow :), thanks to all
+@Sleirsgoevy , Al Azif , ChendoChap , SiSTRo ,Specter ,Znullptr , Karo Sharifi , Lapi , and to all who make this possible..<br>
+@All the PS4PiZero team, may the ps4 community continue to grow :), thanks to all
 
