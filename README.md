@@ -18,6 +18,11 @@ Lightweight site for ps4 browser<br>
 
 ![alt text](https://i.ibb.co/r6m7r67/ss2.jpg)<br><br>
 
+
+note 
+
+To use this host you must install the PaulJenkin image on your microsd, then connect with a program like winscp to the ip of your raspberry selecting the scp protocol (user root pass <?> 123) and replace the contents of the /usr/html folder
+
 @MagicStuff<br>
 @c0d3m4st4 for first release<br>
 @PaulJenkin for Embeded OS, Emulation<br>
