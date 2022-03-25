@@ -10,7 +10,7 @@ Instructions :
 6 - Are free to copy, modify and adapt to your needs, please mention me in the credits =)<br>
 
 ![alt text](https://i.ibb.co/sygKS1k/ss1.jpg)
-
+![alt text](https://i.ibb.co/r6m7r67/ss2.jpg)
 
 @MagicStuff<br>
 @c0d3m4st4 for first release<br>
