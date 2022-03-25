@@ -12,9 +12,11 @@ Instructions :
 AutoJailbreak + Auto Goldhen <br>
 Trainer Updater via FTP (update the console trainers by ftp, for goldhen > 2.2.1)<br>
 Lightweight site for ps4 browser<br>
-
-![alt text](https://i.ibb.co/sygKS1k/ss1.jpg)<br>
-![alt text](https://i.ibb.co/r6m7r67/ss2.jpg)
+<br>
+Home : 
+![alt text](https://i.ibb.co/sygKS1k/ss1.jpg)<br><br>
+Raspberry Configuration :
+![alt text](https://i.ibb.co/r6m7r67/ss2.jpg)<br><br>
 
 @MagicStuff<br>
 @c0d3m4st4 for first release<br>
