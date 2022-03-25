@@ -9,6 +9,8 @@ Instructions :
 5 - I recommend deleting the html folder and copying the new one, since I removed some bins that I don't use in my case, you can add these bins if you wish in the custom folder<br>
 6 - Are free to copy, modify and adapt to your needs, please mention me in the credits =)<br>
 
+![alt text](https://i.ibb.co/sygKS1k/ss1.jpg)
+
 
 @MagicStuff<br>
 @c0d3m4st4 for first release<br>
