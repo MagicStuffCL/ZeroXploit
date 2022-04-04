@@ -5,7 +5,8 @@ Instructions :
 2 - I recommend deleting the html folder and copying the new one, since I removed some bins that I don't use in my case, you can add these bins if you wish in the custom folder<br>
 3 - Are free to copy, modify and adapt to your needs, please mention me in the credits =)<br>
 
-Version host 5 : Added Linux menu and remove code and some files that were unnecessary now
+Version host 5 : Added Linux menu and remove code and some files that were unnecessary now, 
+fixed notification messages
 
 AutoJailbreak + Auto Goldhen 2.2.2<br>
 Lightweight site for ps4 browser<br>
