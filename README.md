@@ -7,7 +7,7 @@ Instructions :
 
 Version host 5 : Added Linux menu and remove code and some files that were unnecessary now
 
-AutoJailbreak + Auto Goldhen <br>
+AutoJailbreak + Auto Goldhen 2.2.2<br>
 Lightweight site for ps4 browser<br>
 <br>
 
