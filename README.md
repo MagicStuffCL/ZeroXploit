@@ -34,3 +34,4 @@ To use this host you must install the PaulJenkin image on your microsd, then con
 - [SiSTR0](https://github.com/SiSTR0)
 - [ChendoChap](https://github.com/ChendoChap)
 - [sleirsgoevy](https://github.com/sleirsgoevy)
+- [Karo](https://kar0218.github.io/)
